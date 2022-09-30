@@ -105,3 +105,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+* * *
+# Hi, this is Arun.
+This document was very informative. It's my first time using github so I'm still confused about some of the terminology and how stuff works but I hope to figure them out as we progress through the course.
+I was able to create a personal repositroy and a profile readme. Not sure how pull requests work.
